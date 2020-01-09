@@ -1,0 +1,13 @@
+n1: 12.30
+n2: true
+n3: false
+n4: ~
+time1: 2018-04-18t21:59:43.10+08:00
+date1: 2018-04-18
+n6: !!str 123
+n7: !!str true
+#- user: admin1
+#  psw: '123456'
+#nub1:
+#    - admin1
+#    - '123456'
